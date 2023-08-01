@@ -1,5 +1,5 @@
 # Parameter Inference for Degenerate Diffusion Processes
-### Code accompanying the paper ***Parameter Inference for Degenerate Diffusion Processes***
+### Code accompanying the paper ***[Parameter Inference for Degenerate Diffusion Processes](http://arxiv.org/abs/2307.16485)***
 
 ## Example notebook  
 Each notebook corresponds to the simulation studies in Section 5 in the paper:
